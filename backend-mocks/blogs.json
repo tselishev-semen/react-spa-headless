@@ -1,0 +1,25 @@
+{
+  ":items": {
+    "header": {
+      ":items": [
+        {
+          ":type": "components/spa/navigation",
+          ":key": "/navigation"
+        }
+      ]
+    },
+    "content": {
+      ":items": [
+        {
+          "title": "Amazing home page",
+          "href": "/index.html",
+          ":type": "components/spa/banner",
+          ":key": "/banner"
+        }
+      ]
+    }
+  },
+  "title": "My best articles",
+  ":type": "pages/spa/blog-page",
+  ":key": "/home-page"
+}

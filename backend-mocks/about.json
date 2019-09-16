@@ -1,0 +1,22 @@
+{
+  ":items": {
+    "header": {
+      ":items": [
+        {
+          "extraUrls": [
+            {
+              "name": "go go",
+              "url": "/index.html"
+            }
+          ],
+          ":type": "components/spa/navigation",
+          ":key": "/navigation"
+        }
+      ]
+    }
+  },
+  "message": "About message",
+  "title": "About this site",
+  ":type": "pages/spa/about-page",
+  ":key": "/about-page"
+}

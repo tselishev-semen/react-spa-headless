@@ -1,0 +1,24 @@
+{
+  ":items": {
+    "header": {
+      ":items": [
+        {
+          ":type": "components/spa/navigation",
+          ":key": "/navigation"
+        }
+      ]
+    },
+    "content": {
+      ":items": [
+        {
+          "title": "The best articles ever",
+          "href": "/blogs.html",
+          ":type": "components/spa/banner",
+          ":key": "/banner"
+        }
+      ]
+    }
+  },
+  ":type": "pages/spa/home-page",
+  ":key": "/home-page"
+}
